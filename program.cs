@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// this is the main class dude this literally starts the engine by calling other classes
+
 namespace Ovin24PCE
 {
     public class program
