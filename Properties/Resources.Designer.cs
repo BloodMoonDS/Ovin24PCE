@@ -63,9 +63,29 @@ namespace Ovin24PCE.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap CTAEYE {
+            get {
+                object obj = ResourceManager.GetObject("CTAEYE", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap DemoPicture1 {
             get {
                 object obj = ResourceManager.GetObject("DemoPicture1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap texture {
+            get {
+                object obj = ResourceManager.GetObject("texture", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
